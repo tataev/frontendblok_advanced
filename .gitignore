@@ -1,7 +1,9 @@
 #Всё
 /*
+/*/
 #Кроме папки с содержимым
-!/src/*
+!/src/
 #И файла
 !README.md
 !notebook.txt
+!.gitignore
