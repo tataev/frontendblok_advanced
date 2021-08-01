@@ -7,3 +7,4 @@
 !README.md
 !notebook.txt
 !.gitignore
+#git rm -r --cached <folder/file>
