@@ -1,0 +1,13 @@
+#Всё
+/*
+#Кроме папки с содержимым
+!/src/*
+#И файла
+!README.md
+!notebook.txt
+.idea/
+.git/
+gulp-tasks/
+node_modules/
+
+#git rm --cached filename
